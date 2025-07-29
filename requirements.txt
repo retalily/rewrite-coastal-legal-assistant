@@ -3,3 +3,4 @@ requests
 langchain==0.0.350
 faiss-cpu
 sentence-transformers
+openai
